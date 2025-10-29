@@ -1,0 +1,17 @@
+Create an AI-powered coding assistant named AICoder designed for developers and enterprises. The assistant should offer real-time, context-aware code suggestions, inline natural language editing, and multi-step task automation. It must support a sleek, intuitive IDE interface with strong privacy controls, zero training on non-permissive data, and optional zero-day retention. Include features like:
+
+Supercomplete autocompletion for code and docstrings
+
+Inline AI for refactoring, debugging, and enhancement
+
+Cascade Flows to automate multi-step coding tasks with user approval
+
+Image-to-code conversion (HTML/CSS/JS from screenshots)
+
+Support for multiple programming languages and frameworks
+
+Seamless integration with version control and deployment tools
+
+Enterprise-grade security and customization options Design the assistant to maintain developer flow and minimize context switching.
+
+Make sure the project builds successfully. Also add sufficient documentation to build and run it on windows. This project is going to be open source. So If you want to start from a open source fork go ahead and do that.
